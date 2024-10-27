@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+    background: wheat;
+    width: 50%;
+    height: 420px;
+    margin: 5% 0px 0% 25%;
+    border-radius: 5%;
+}
+header{
+    width: 50%;
+    margin: 0px 0px 10px 33%;
+    padding: 5px;
+}
+.board{
+    background: black;
+    width: 308px;
+    border-radius: 1rem;
+    margin: 0px 0px 10px 27%;
+}
+button{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    background-color: #ffffc7;
+    border-radius: 1rem;
+}
+#reset{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    text-align: center;
+    margin: 0px 0px 10px 22%;
+    font-size: 20px;
+    background: rgb(190, 113, 113);
+}
